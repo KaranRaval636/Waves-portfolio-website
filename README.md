@@ -4,4 +4,5 @@
 https://karanraval636.github.io/Waves-portfolio-website/
 
 <h2>Screenshots</h2>
-![Website Preview](https://github.com/user-attachments/assets/fcfd0d33-1342-43fc-8642-70c1980b7f01)
+![Screenshot 2025-02-03 180134](https://github.com/user-attachments/assets/0510a9a2-11e3-402d-a862-130070ee6feb)
+
